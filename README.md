@@ -4,11 +4,12 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
-My project has a picture of a cat
+My project has a picture of a cat, and has basic stuff asf sf sf sf sf asd fsk skc sknks asnfjxb a sjf  trying to 
+create weight and measurement calcuratorbut it is extremely hard
 
 ## Background
 
